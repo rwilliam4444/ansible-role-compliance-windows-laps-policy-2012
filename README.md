@@ -1,0 +1,1 @@
+# ansible-role-compliance-windows-laps-policy-2012-
